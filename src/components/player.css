@@ -1,0 +1,7 @@
+.vjs-pip-button:before {
+  content: '🤙';
+  height: 20px;
+  width: 20px;
+  font-size: 20px;
+  color: #fff;
+}
